@@ -146,3 +146,4 @@ public class FileUploadController {
 		return fileInfo;
 	}
 }
+//frenmanoj/dropzonejs-springmvc
